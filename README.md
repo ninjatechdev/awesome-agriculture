@@ -134,6 +134,12 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
 - [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 
+## Machinery and Implements
+
+- [PowerAgro Industries](https://poweragroindustries.com) - Manufacturer of tractor attachments and implements in India, focused on durable and innovative solutions for farmers.
+- [Farm Hack Tools](https://farmhack.org/tools) - Worldwide community of farmers that build and modify open source tools for practical field use.
+- [Open Source Ecology](https://www.opensourceecology.org/) - Network developing open source industrial machines, including agricultural implements.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
